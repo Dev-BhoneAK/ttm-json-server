@@ -9,51 +9,51 @@
     },
     {
       "id": 2,
-      "name": "International",
+      "name": "Global",
       "image": "",
       "icon": "language",
       "parentCategory": "news"
     },
     {
       "id": 3,
-      "name": "Entertainment",
-      "image": "",
-      "icon": "movie_filter",
-      "parentCategory": "news"
-    },
-    {
-      "id": 4,
       "name": "Sport",
       "image": "",
       "icon": "run_circle",
       "parentCategory": "news"
     },
     {
-      "id": 5,
-      "name": "Agriculture",
+      "id": 4,
+      "name": "Entertain",
       "image": "",
-      "icon": "agriculture",
+      "icon": "movie_filter",
       "parentCategory": "news"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Political",
       "image": "",
       "icon": "assured_workload",
       "parentCategory": "news"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Business",
       "image": "",
-      "icon": "work_outline",
+      "icon": "work",
+      "parentCategory": "news"
+    },
+    {
+      "id": 7,
+      "name": "General",
+      "image": "",
+      "icon": "description",
       "parentCategory": "news"
     },
     {
       "id": 8,
-      "name": "General",
+      "name": "Agriculture",
       "image": "",
-      "icon": "description",
+      "icon": "agriculture",
       "parentCategory": "news"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "id": 2,
-      "title": "Reading Contest Lorem Ipsum dolar sit amet de",
+      "title": "Reading Contest Lorem Ipsum dolar sit amet de Lorem Ipsum dolar sit amet deLorem Ipsum dolar sit amet deLorem Ipsum dolar sit amet de",
       "image": "/images/news/local/6061ba9fafc0b_480x320.jpeg",
       "content": "Fusce vulputate sem pellentesque ipsum sodales imperdiet. Nullam varius urna urna, vitae gravida lectus sagittis nec. Phasellus sollicitudin enim dapibus rhoncus fermentum. Nunc rutrum libero justo, ut dictum tellus feugiat sed. Donec quis mattis dolor. Vivamus feugiat metus magna. Quisque in sagittis leo. Donec vehicula at nisi bibendum ultricies. Vivamus lectus turpis, bibendum id libero ut, posuere pulvinar odio. Curabitur dictum dapibus leo sit amet lobortis. Nam at efficitur orci. Etiam lacus ligula, vehicula quis maximus nec, fringilla non urna. Nunc a purus quis enim semper porttitor eget non dui. Phasellus tincidunt mauris sapien, ut feugiat augue rhoncus in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac pellentesque tellus. Sed sit amet mattis libero. Duis non dolor tincidunt, dignissim est vitae, congue mi. Nulla et turpis ex. Sed sagittis vulputate condimentum. Phasellus ac sapien sit amet felis fermentum sollicitudin maximus sed risus. Quisque semper enim et lorem facilisis pharetra. In dui felis, fringilla at felis id, facilisis ultricies diam. Cras id justo ut sem consequat pulvinar nec eget justo. Duis luctus congue vestibulum. Quisque at magna nulla. Quisque at augue auctor turpis mattis sodales vel nec nisl. Mauris efficitur ante mi, eget ultrices massa mattis ut. Fusce vulputate sem pellentesque ipsum sodales imperdiet. Nullam varius urna urna, vitae gravida lectus sagittis nec. Phasellus sollicitudin enim dapibus rhoncus fermentum. Nunc rutrum libero justo, ut dictum tellus feugiat sed. Donec quis mattis dolor. Vivamus feugiat metus magna. Quisque in sagittis leo. Donec vehicula at nisi bibendum ultricies. Vivamus lectus turpis, bibendum id libero ut, posuere pulvinar odio. Curabitur dictum dapibus leo sit amet lobortis. Nam at efficitur orci. Etiam lacus ligula, vehicula quis maximus nec, fringilla non urna. Nunc a purus quis enim semper porttitor eget non dui. Phasellus tincidunt mauris sapien, ut feugiat augue rhoncus in.",
       "categoryId": 1,
